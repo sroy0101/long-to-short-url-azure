@@ -2,7 +2,7 @@
     "cSpell.words": [
         "shorturl"
     ],
-    "azureFunctions.deploySubpath": "function",
+    "azureFunctions.deploySubpath": "functions",
     "azureFunctions.postDeployTask": "npm install",
     "azureFunctions.projectLanguage": "TypeScript",
     "azureFunctions.projectRuntime": "~3",
